@@ -148,6 +148,10 @@ final修饰的属性可称之为常量，用XX_XX_XX来命名
 2.方法二，使用enum来替代class
 写常量（对象），须写在最前面
 也可用无参构造器创建常量对象，其可省略（）
+### 注解
+Override 检测是否覆盖重写
+Deprecated 修饰某元素，表过时
+SuppressWarnings 抑制警告信息435
 
    
 
