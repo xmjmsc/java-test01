@@ -151,8 +151,27 @@ final修饰的属性可称之为常量，用XX_XX_XX来命名
 ### 注解
 Override 检测是否覆盖重写
 Deprecated 修饰某元素，表过时
-SuppressWarnings 抑制警告信息435
+SuppressWarnings 抑制警告信息
+### 异常 
+try{代码块
+}catch{抛出信息
+}finally{始终表达的信息
+}
+可多个catch语句
+异常的提示信息
+throws抛出
+编译异常，程序必须处理，try-catch或者throws
+运行时异常若无处理默认throws
+子类重写父类时父类需与一致或为其子类
+若有try-catch则无需throws
+ Exception编译异常
+ RuntimeException运行时异常
+### 包装类
+装箱： 基本数据类型int  → 包装类型Integer
+自动装调用valueOf，如Integer.valueOf()
+手动拆箱 i = integer.intValue();
 
-   
+
+
 
 
