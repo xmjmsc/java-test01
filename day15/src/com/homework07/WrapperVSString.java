@@ -12,6 +12,5 @@ public class WrapperVSString {
         String str4 = "123456";
         Integer i2 = Integer.parseInt(str4);
         Integer i3 = new Integer(str4);
-
     }
 }

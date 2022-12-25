@@ -170,8 +170,33 @@ throws抛出
 装箱： 基本数据类型int  → 包装类型Integer
 自动装调用valueOf，如Integer.valueOf()
 手动拆箱 i = integer.intValue();
+### String类字符串
+String s1 == "java";
+String s2 ==  new String("java");
+String与StringBuffer与StringBuilder
+### 常见类math等，
+math，Arrays ,System
+toString的用法
+BigInteger大数字的存储
+BigDecimal大数字浮点
+Data ，simpleDataFormat
+Calendar
+LocalData，~Time， ~DataTime
+![f049f7ace7b022b12443b9f16902d57c.png](f049f7ace7b022b12443b9f16902d57c.png)
+String.format的用法，s%，%c
+### 集合
 
+迭代器iterator
 
+#### ArrayList和LinkedList
 
+两种类是基于List接口的
 
+分别是基于数组与链表
+
+增强for
+
+#### HashSet与TreeSet
+
+二者是基于set接口，其特点，无序，无索引，不允许重复元素
 
