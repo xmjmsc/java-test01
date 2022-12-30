@@ -200,3 +200,37 @@ String.format的用法，s%，%c
 
 二者是基于set接口，其特点，无序，无索引，不允许重复元素
 
+适时情况需要重写hashCode()和equals()方法
+
+其中linkedhashset加入与取出元素的顺序需要一致
+
+添加xxx.add
+
+### Map接口
+
+是HashMap
+
+Map中有key和value，其可以是任意引用的数据，key不可以重复，value可重复，key最多一个为null
+
+value可以多个为null，
+
+添加xxx.put
+
+底层：数组加链表加树，初始大小16，扩容\*2，扩容临界值*0.75
+
+HashTable线程安全，HashMap线程不安全
+
+### TreeSet
+
+元素有序，元素首字母排序
+
+### 泛型
+
+可对ArrayList中的数据进行约束
+
+免去类型转换
+
+泛型在指定类型后，可以传入该类型或其子类型
+
+
+

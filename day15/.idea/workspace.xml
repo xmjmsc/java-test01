@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c043ec9a-8519-4db3-9f15-82050b2598c9" name="变更" comment="">
+    <list default="true" id="b3a92b7e-7984-4a36-9b7d-37f05dc2771d" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day16/day16.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day16/day16.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day20/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2JP5yfzWILKg8KBSA3IzmVUsgLj" />
+  <component name="ProjectId" id="2Jdj6EaSzpJxrmxNBpJTtcheZBr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,19 +26,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/xmjmsc2/OneDrive/windows7/java-test01/day20"
+    "last_opened_file_path": "C:/Users/xmjmsc2/OneDrive/windows7/java-test01"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="c043ec9a-8519-4db3-9f15-82050b2598c9" name="变更" comment="" />
-      <created>1671967136025</created>
+      <changelist id="b3a92b7e-7984-4a36-9b7d-37f05dc2771d" name="变更" comment="" />
+      <created>1672414676331</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1671967136025</updated>
-      <workItem from="1671967137338" duration="611000" />
-      <workItem from="1672414567878" duration="19000" />
+      <updated>1672414676331</updated>
+      <workItem from="1672414677612" duration="61000" />
     </task>
     <servers />
   </component>
