@@ -247,3 +247,11 @@ HashTable线程安全，HashMap线程不安全
 继承Thread类
 
 实现Runnable接口
+
+interruput 中断线程，
+
+插队，join
+
+守护线程 xxx.setDaemon(ture)
+
+线程同步
