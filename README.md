@@ -258,3 +258,26 @@ interruput 中断线程，
 
 ### IO流
 
+节点流
+
+处理流/包装流
+
+***接收子类对象***
+
+是否覆盖文件添加ture
+
+字符流BufferReader，BufferWriter
+
+字节流BufferedInputStream，BufferedOutputStream
+
+#### 对象流
+
+Serializeble 需要序列化某对象，则该对象需要先实现化该接口
+
+Externalizeble
+
+序列化与反序列化需要按顺序
+
+Static和Transient修饰的成成员不会序列化，对象里的属性类型需要时实现了序列化接口的
+
+标准输入输出流
