@@ -258,6 +258,8 @@ interruput 中断线程，
 
 ### IO流
 
+字节流与字符流
+
 节点流
 
 处理流/包装流
@@ -281,3 +283,17 @@ Externalizeble
 Static和Transient修饰的成成员不会序列化，对象里的属性类型需要时实现了序列化接口的
 
 标准输入输出流
+
+字节流 FileInputstream 转成字符流InputstreamReader指定编码gbk/utf-8
+
+### 反射
+
+得到class对象的各种方式
+
+1. Class.forName 读取配置文件
+2. 类名.class 用于参数传递
+3. 对象.getClass() 有对象实例时
+4. 类加载器.loadClass() 通过类加载器
+
+反射是动态加载，在运行时且执行时加载，而不同于静态加载
+反射
