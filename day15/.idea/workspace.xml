@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3a92b7e-7984-4a36-9b7d-37f05dc2771d" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day15.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day16/day16.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day16/day16.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day20/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day20/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day17/day17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day18/day18.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day19/day19.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20/day20.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../f049f7ace7b022b12443b9f16902d57c.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,14 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/xmjmsc2/OneDrive/windows7/java-test01"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/xmjmsc2/OneDrive/windows7/java-test01&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -38,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672414676331</updated>
       <workItem from="1672414677612" duration="61000" />
+      <workItem from="1675005395896" duration="157000" />
     </task>
     <servers />
   </component>
