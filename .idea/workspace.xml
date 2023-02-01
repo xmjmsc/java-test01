@@ -9,13 +9,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92c395db-6443-4fd8-acdb-06753100c217" name="变更" comment="反射">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_36_bin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_JDBC/lib/mysql-connector-java-5.1.36-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_JDBC/src/jdbcConnect/testconnect1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="92c395db-6443-4fd8-acdb-06753100c217" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/servlet_api__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javawebTomcat/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javawebTomcat/src/servlet01/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javawebTomcat/web/WEB-INF/lib/servlet-api.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_JDBC/java_JDBC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_JDBC/java_JDBC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javawebTomcat/javawebTomcat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javawebTomcat/javawebTomcat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javawebTomcat/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javawebTomcat/web/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,41 +57,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/xmjmsc2/OneDrive/windows7/java-test01/java_JDBC/lib",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "项目",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.applicationServers"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/xmjmsc2/OneDrive/windows7/java-test01/javawebTomcat/web/WEB-INF/lib&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="Push.Settings">
     <option name="SHOW_DETAILS_PANEL" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\xmjmsc2\OneDrive\windows7\java-test01\java_JDBC\lib" />
       <recent name="C:\Users\xmjmsc2\OneDrive\windows7\java-test01\javawebTomcat\web\WEB-INF\lib" />
+      <recent name="C:\Users\xmjmsc2\OneDrive\windows7\java-test01\javawebTomcat\lib" />
+      <recent name="C:\Users\xmjmsc2\OneDrive\windows7\java-test01\javawebTomcat" />
+      <recent name="C:\Users\xmjmsc2\OneDrive\windows7\java-test01\java_JDBC\lib" />
       <recent name="C:\Users\xmjmsc2\OneDrive\windows7\java-test01\javaweb01\src\web002" />
-      <recent name="C:\Users\xmjmsc2\OneDrive\windows7\java-test01\javaweb01\src\web001" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.testconnect1.testconnect001">
@@ -166,7 +170,7 @@
       <deployment>
         <artifact name="javawebTomcat:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/javawebTomcat_war_exploded" />
+            <option name="CONTEXT_PATH" value="/javawebTomcat" />
           </settings>
         </artifact>
       </deployment>
@@ -251,18 +255,14 @@
     <list>
       <item itemvalue="TestNG.testconnect1.testconnect001" />
       <item itemvalue="Tomcat 服务器.java01Tomcat 10.0.27" />
-      <item itemvalue="应用程序.testconnect1" />
       <item itemvalue="应用程序.FileCopy" />
       <item itemvalue="应用程序.H_main" />
       <item itemvalue="应用程序.InputStreamReader_" />
+      <item itemvalue="应用程序.testconnect1" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.testconnect1.testconnect001" />
-        <item itemvalue="应用程序.testconnect1" />
-        <item itemvalue="应用程序.H_main" />
-        <item itemvalue="应用程序.InputStreamReader_" />
-        <item itemvalue="应用程序.FileCopy" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +304,8 @@
       <workItem from="1673442455971" duration="6678000" />
       <workItem from="1673617862474" duration="9281000" />
       <workItem from="1674224725741" duration="13654000" />
-      <workItem from="1675005483019" duration="5096000" />
+      <workItem from="1675005483019" duration="8018000" />
+      <workItem from="1675259756540" duration="161000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1661265501296</created>
@@ -432,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675006338020</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="MysqlJdbc">
+      <created>1675011882685</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1675011882685</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -472,7 +480,8 @@
     <MESSAGE value="反射" />
     <MESSAGE value="mysql" />
     <MESSAGE value="javaSE" />
-    <option name="LAST_COMMIT_MESSAGE" value="javaSE" />
+    <MESSAGE value="MysqlJdbc" />
+    <option name="LAST_COMMIT_MESSAGE" value="MysqlJdbc" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
