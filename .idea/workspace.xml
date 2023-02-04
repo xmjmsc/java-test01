@@ -10,23 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92c395db-6443-4fd8-acdb-06753100c217" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven02/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven02/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mavenWeb/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mavenWeb/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/javawebTomcat_war_exploded/WEB-INF/classes/servlet01/HelloServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/javawebTomcat_war_exploded/WEB-INF/lib/druid-1.1.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/javawebTomcat_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/javawebTomcat_war_exploded/WEB-INF/lib/servlet-api.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/javawebTomcat_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/javawebTomcat_war_exploded/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/javaweb01_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/javaweb01_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/javawebTomcat_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/javawebTomcat_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -390,7 +373,7 @@
       <workItem from="1675440023905" duration="140000" />
       <workItem from="1675440185616" duration="4056000" />
       <workItem from="1675444328454" duration="270000" />
-      <workItem from="1675444641716" duration="2309000" />
+      <workItem from="1675444641716" duration="3150000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1661265501296</created>
@@ -532,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675260022310</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="servlet">
+      <created>1675513670055</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1675513670055</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
