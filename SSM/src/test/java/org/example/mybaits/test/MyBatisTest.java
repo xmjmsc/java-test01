@@ -23,6 +23,7 @@ public class MyBatisTest {
 //        //获取sql的会话对象SqlSession(不会自动提交事务)，是MyBatis提供的操作数据库对象
 //        SqlSession sqlSession = sqlSessionFactory.openSession();
         //获取sql的会话对象SqlSession(会自动提交事务)，是MyBatis提供的操作数据库对象
+
         SqlSession sqlSession = sqlSessionFactory.openSession(true);
         //获取UserMapper的代理实现类对象
         UserMapper mapper = sqlSession.getMapper(UserMapper.class);
