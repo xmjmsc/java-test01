@@ -3,22 +3,32 @@
         PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
-
+    <!--
+            MyBatis核心配置文件中，标签的顺序：
+            properties?,settings?,typeAliases?,typeHandlers?,
+            objectFactory?,objectWrapperFactory?,reflectorFactory?,
+            plugins?,environments?,databaseIdProvider?,mappers?
+	-->
+    <properties resource="jdbc.properties"/>
+    <typeAliases>
+<!--        <typeAlias type="org.example.pojo.User" alias="user"/>-->
+        <package name="org.example.pojo"/>
+    </typeAliases>
     <!--设置连接数据库的环境-->
     <environments default="development">
         <environment id="development">
             <transactionManager type="JDBC"/>
             <dataSource type="POOLED">
-                <property name="driver" value="com.mysql.cj.jdbc.Driver"/>
-                <property name="url" value="jdbc:mysql://localhost:3306/ssm?characterEncoding=utf-8&amp;useSSL=false"/>
+                <property name="driver" value="${jdbc.driver}"/>
+                <property name="url" value="${jdbc.ulr}"/>
 <!--                jdbc:mysql://localhost:3306/ssm?characterEncoding=utf-8&amp;useSSL=false-->
-                <property name="username" value="root"/>
-                <property name="password" value="123456"/>
+                <property name="username" value="${jdbc.username}"/>
+                <property name="password" value="${jdbc.password}"/>
             </dataSource>
         </environment>
     </environments>
     <!--引入映射文件-->
     <mappers>
-        <mapper resource="mappers/UserMapper.xml"/>
+        <package name="org.example.mapper"/>
     </mappers>
 </configuration>
